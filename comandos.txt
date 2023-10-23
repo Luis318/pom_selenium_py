@@ -1,0 +1,5 @@
+python -m pom.Test2 -k test2 -k test3 
+//Para correr varios test en especifico 
+
+python -m pom.Test2
+//para ejecutar un archivo que contiene los test
